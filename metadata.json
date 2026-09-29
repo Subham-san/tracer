@@ -1,0 +1,6 @@
+{
+  "name": "SUBHAM — Life & Career Tracker",
+  "description": "Premium personal productivity tracking web app for Subham Nayak — balancing BCA college, 3H daily study, online internship, web & game development, and personal routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
